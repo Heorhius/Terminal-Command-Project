@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 11.0.1 (Oracle Corporation)
+Main-Class: com/kaptsiug/project/Lesson
+Class-Path: lib/commons-collections4-4.4.jar bin/
